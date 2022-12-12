@@ -7,7 +7,7 @@ class Rounds
   end
 
   def create_question
-    "What does #{@num1} plus #{@num2}?"
+    "What is #{@num1} plus #{@num2}?"
   end
 
   def question_answer
